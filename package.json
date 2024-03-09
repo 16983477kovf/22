@@ -1,0 +1,26 @@
+{
+  "name": "k22-mimiklsf",
+  "version": "1.0.0",
+  "description": "A comprehensive cybersecurity incident response platform that detects, mitigates, and responds to security breaches, safeguarding organizations from cyber threats and minimizing potential damages.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/16983477kovf/22.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "16983477kovf",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}

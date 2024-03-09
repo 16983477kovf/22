@@ -1,0 +1,1 @@
+A comprehensive cybersecurity incident response platform that detects, mitigates, and responds to security breaches, safeguarding organizations from cyber threats and minimizing potential damages.
